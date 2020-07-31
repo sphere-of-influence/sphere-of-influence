@@ -1,4 +1,11 @@
-### Hi there 👋
+<img src="https://sphere-of-influence.github.io/social-image.png" align="left" width="500" />
+
+Sharing the stories of Soviet Citizens and insights into daily life within the Soviet Union, Sphere of Influence aims to cast the USSR in a positive light and share its culture with a modern audience. The project hopes to shatter illusions that the [current state of society](https://en.wikipedia.org/wiki/Criticism_of_capitalism) is a fixed absolute, by offering a window through which to admire an alternative model.
+
+Sphere of Influence is built and maintained by volunteers in their spare time, it is a project of love.
+We are currently in Beta so things might be a little rough & ready. 
+
+Current editors are [@sovietarchitect](//twitter.com/sovietarchitect) and [@OldNewStandard](//twitter.com/OldNewStandard), with assistance of family and friends.
 
 <!--
 **sphere-of-influence/sphere-of-influence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
