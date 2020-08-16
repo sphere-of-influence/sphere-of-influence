@@ -18,4 +18,4 @@ Occasionally the *On This Day* feature will display the darker side of the USSR.
 ## As a Content Mapping Platform
 The Sphere of Influence is a demo of the engine which runs it, a tool for automated geo-mapping of twitter content from select accounts, flexible with plugins but robust and simple in presentation.
 
-Read more in the [Repo](https://github.com/sphere-of-influence/sphere-of-influence.github.io)
+Read more at the [About Page](https://sphere-of-influence.github.io/pages/about.html)
