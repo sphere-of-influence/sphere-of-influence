@@ -11,7 +11,7 @@ The USSR presents a unique study, a vast state encompassing many nations in one 
 Twitter has many dedicated accounts regularly posting snapshots of daily life from within its borders, these provide a rich steady source of content for the project and because the USSR is (in terms of man's history) relatively recent the geography hasn't changed much beyond renamings (and a [lost sea](https://en.wikipedia.org/wiki/Aral_Sea)!). This makes for relatively accurate best-guess geotagging.
 
 ###### A Positive Outlook?
-The project employs a self-aware air of positivity towards the USSR as a [stylistic choice](https://sphere-of-influence.github.io//pages/contributing.html), the focus is on life within a now vanished-state & not so much the broader history. 
+The project employs a self-aware air of positivity towards the USSR as a [stylistic choice](https://sphere-of-influence.github.io/pages/contributing.html), the focus is on life within a now vanished-state & not so much the broader history. 
 
 Occasionally the *On This Day* feature will display the darker side of the USSR.
 
